@@ -1,0 +1,41 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+.login-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.login-box a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.create-account {
+    margin-top: 20px;
+}
+
+
+
+

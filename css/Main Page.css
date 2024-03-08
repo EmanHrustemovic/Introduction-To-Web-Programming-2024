@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+header{
+    background-color: lightgray;
+    padding: 10px 0;
+    height: 50px;
+}
+
+.mini-pre-header{
+    color: black;
+}
+
+.mini-pre-header p{
+    margin-left: -90px;
+}
+
+.mini-pre-header p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.mini-pre-header .mini-menu li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.mini-pre-header .mini-menu li a{
+    text-decoration: none;
+    color: black; 
+}
+
+.big-pre-header{
+    background-color: blue;
+    padding: 35px 0;
+    height: 45px;
+}
+
+.big-pre-header img{
+    margin-left: -105px;
+    margin-top: -35px;
+    height: 70px;
+    width: -40px;       
+}
+
+
+.big-pre-header .main-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -30px ; 
+    white-space: nowrap;
+    right: 500px;
+    bottom: 20px;
+}
+
+
+.big-pre-header .main-menu li {
+    display: inline-block;
+    color: white;
+    font-size: larger;
+    padding: 20px;
+}
+
+.main-cta-btn{
+    background-color: #4f33f1;
+    border: 1px solid #4f33f1;
+    padding: 10px;
+    color: #fff !important;
+    transition: 0.2s;
+}
+
+.main-cta-btn:hover{
+    color: white !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.lastes-news{
+    background-image: url("../images/kros.jpg");
+    background-color: darkblue;
+    background-size: cover;
+    background-position: center;
+    padding: 70px;
+    margin: 71px;
+}
+
+.lastes-news h1{
+    color:black ;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 300px;
+    text-align: left;
+
+}
+
+.lastes-news p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: -100px;
+}
+
+.lastes-news a {
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+    color: #fff;
+    transition: 0.2s;
+    display: inline-block;
+}
+
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer h4{
+    border-bottom: 1px dotted gray;
+    color: #343434;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+footer h4:before{
+    content: "";
+    display: inline-block;
+    background-color: #315df7;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: -2px;
+}
+
+footer ul{
+    list-style: none;
+    margin-top: 15px;
+}
+
+footer ul li a {
+    color: #818181;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+footer .icons a i{
+    font-size: 28px;
+    color: #818181;
+}
+
+
+
+.after-footer{
+    background-color: darkblue;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.after-footer ul{
+    list-style: none;
+    margin: 0;
+}
+
+.after-footer ul li{
+    display: inline-block;
+    margin-left: 15px;
+
+}
+
+.after-footer ul li a {
+    color: white;
+    text-transform: uppercase;
+}
+
+.after-footer p{
+    color: #fff;
+}
