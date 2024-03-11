@@ -80,54 +80,11 @@ header{
     color: white;
 }
 
-.main-cta-btn{
-    background-color: #4f33f1;
-    border: 1px solid #4f33f1;
-    padding: 10px;
-    color: #fff !important;
-    transition: 0.2s;
-}
 
-.main-cta-btn:hover{
-    color: white !important;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-.lastes-news{
-    background-image: url("../images/kros.jpg");
-    background-color: darkblue;
-    background-size: cover;
-    background-position: center;
-    padding: 70px;
-    margin: 71px;
-}
-
-.lastes-news h1{
-    color:black ;
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 300px;
-    text-align: left;
-
-}
-
-.lastes-news p{
-    color: #fff;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    margin-top: -100px;
-}
-
-.lastes-news a {
-    background-color: lightblue;
-    border: 1px solid black;
-    padding: 10px;
-    color: #fff;
-    transition: 0.2s;
-    display: inline-block;
+.matches-schedule{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: none;
 }
 
 footer{
