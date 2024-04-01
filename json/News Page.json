@@ -1,0 +1,176 @@
+{
+    "header": {
+      "miniPreHeader": {
+        "links": [
+          {
+            "text": "UEFA.com",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      },
+      "bigPreHeader": {
+        "logoSrc": "images/logo.jpg",
+        "menuItems": [
+          {
+            "text": "Inside UEFA",
+            "href": "https://www.uefa.com/insideuefa/"
+          },
+          {
+            "text": "UEFA.tv",
+            "href": "https://www.uefa.tv/"
+          },
+          {
+            "text": "Live Scores",
+            "href": "https://www.uefa.com/livescores/"
+          },
+          {
+            "text": "Tickets",
+            "href": "https://www.uefa.com/tickets/"
+          },
+          {
+            "text": "Store",
+            "href": "https://www.shopuefa.com/en/"
+          },
+          {
+            "text": "Login",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Login%20Page.html"
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      }
+    },
+    "newsSection": {
+      "newsItems": [
+        {
+          "title": "Lastes News :",
+          "content": "Although severely weakened, Italy is ready to welcome the defence of the trophy. Popular \"Azzuri\" are hungry for trophies",
+          "cta": {
+            "text": "Read More",
+            "href": "#",
+            "class": "main-cta-btn"
+          }
+        },
+        {
+          "title": "Lastes News :",
+          "content": "The Germans as hosts the main contenders for the trophy of the best in Europe.",
+          "cta": {
+            "text": "Read More",
+            "href": "#",
+            "class": "main-cta-btn"
+          }
+        },
+        {
+          "title": "Lastes News :",
+          "content": "Coach of Bosnia and Herzegovina after reaching the Euro: \"The whole nation is proud, this is a historic success.\".",
+          "cta": {
+            "text": "Read More",
+            "href": "#",
+            "class": "main-cta-btn"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "contact": {
+        "links": [
+          {
+            "text": "help@UEFA.com",
+            "href": "mailto:UEFA.com"
+          },
+          {
+            "text": "info@UEFA.com",
+            "href": "mailto:info@UEFA.com"
+          }
+        ]
+      },
+      "products": [
+        {
+          "text": "Store",
+          "href": "#"
+        },
+        {
+          "text": "Tickets",
+          "href": "#"
+        },
+        {
+          "text": "Fan Shop",
+          "href": "#"
+        }
+      ],
+      "contacts": {
+        "links": [
+          {
+            "text": "FIFA",
+            "href": "https://www.fifa.com/"
+          },
+          {
+            "text": "UEFA",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Nyon",
+            "href": "https://hr.wikipedia.org/wiki/Nyon"
+          }
+        ]
+      },
+      "support": {
+        "links": [
+          {
+            "text": "Tech Support",
+            "href": "#"
+          },
+          {
+            "text": "Get In Touch",
+            "href": "#"
+          }
+        ]
+      },
+      "socialMedia": {
+        "links": [
+          {
+            "icon": "fab fa-facebook-square",
+            "href": "https://www.facebook.com/uefa"
+          },
+          {
+            "icon": "fab fa-twitter",
+            "href": "https://twitter.com/UEFA"
+          },
+          {
+            "icon": "fab fa-linkedin",
+            "href": "https://www.linkedin.com/company/uefa"
+          },
+          {
+            "icon": "fab fa-instagram-square",
+            "href": "https://www.instagram.com/uefa_official/"
+          },
+          {
+            "icon": "fab fa-youtube",
+            "href": "https://www.youtube.com/user/UEFA"
+          }
+        ]
+      },
+      "copyright": {
+        "text": "This is the official website of UEFA."
+      },
+      "quickLinks": {
+        "links": [
+          {
+            "text": "Home",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Contact Us",
+            "href": "mailto:info@UEFA.com"
+          },
+          {
+            "text": "Club Competitions Store",
+            "href": "#"
+          }
+        ]
+      }
+    }
+}
+  
