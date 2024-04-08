@@ -1,0 +1,219 @@
+{
+    "header": {
+      "miniPreHeader": {
+        "links": [
+          {
+            "text": "UEFA.com",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      },
+      "bigPreHeader": {
+        "logoSrc": "images/logo.jpg",
+        "menuItems": [
+          {
+            "text": "Matches",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Matches%20Page.html"
+          },
+          {
+            "text": "Groups",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Groups%20Page.html"
+          },
+          {
+            "text": "Video",
+            "href": "https://www.youtube.com/user/UEFA"
+          },
+          {
+            "text": "Teams",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Teams Page.html"
+          },
+          {
+            "text": "News",
+            "href": "News Page.html"
+          },
+          {
+            "text": "Tickets",
+            "href": "https://www.uefa.com/tickets/"
+          },
+          {
+            "text": "Event Guide",
+            "href": "Event Guide.html"
+          },
+          {
+            "text": "History",
+            "href": "https://en.wikipedia.org/wiki/UEFA"
+          },
+          {
+            "text": "About",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Store",
+            "href": "https://www.shopuefa.com/en/"
+          }
+        ]
+      }
+    },
+    "matchesSchedule": {
+      "teams": [
+        {
+          "name": "Germany Squad",
+          "logoSrc": "images/germany.png",
+          "players": [
+            "Manuel Neuer",
+            "Joshua Kimmich",
+            "Jonathan Tah",
+            "Thilo Kherer",
+            "Lukas Klostermann",
+            "Tony Kross",
+            "Robin Koch",
+            "Thomas Muller",
+            "Jamal Musiala",
+            "Niclas Fullkrug",
+            "Timo Werner"
+          ]
+        },
+        {
+          "name": "Spain Squad",
+          "logoSrc": "images/spain.jpg",
+          "players": [
+            "Unai Simon",
+            "Jesus Navas",
+            "Pau Torres",
+            "Dani Carvajal",
+            "Fabian Ruiz",
+            "Rodri",
+            "Gavi",
+            "Joseul",
+            "Nico Williams",
+            "Ferran Torres",
+            "Alvaro Morata"
+          ]
+        },
+        {
+          "name": "Bosnia Squad",
+          "logoSrc": "images/bosna.jpg",
+          "players": [
+            "Ibrahim Šehić",
+            "Sead Kolašinac",
+            "Jusuf Gazibegović",
+            "Amar Dedić",
+            "Miralem Pjanić",
+            "Rade Krunić",
+            "Dal Varešanović",
+            "Nemanja Bilbija",
+            "Said Hamulić",
+            "Ermedin Demirović",
+            "Edin Džeko"
+          ]
+        },
+        {
+          "name": "France Squad",
+          "logoSrc": "images/france.jpg",
+          "players": [
+            "Hugo Lloris",
+            "Dayot Upammecano",
+            "Marquinos",
+            "Lukas Hernandez",
+            "Theo Hernandez",
+            "Paul Pogba",
+            "Kingsley Coman",
+            "Osamuna Dembele",
+            "Adrien Rabiot",
+            "Kylian Mbappe",
+            "Marcus Thuram"
+          ]
+        },
+        {
+          "name": "Belgium Squad",
+          "logoSrc": "images/belgium.png",
+          "players": [
+            "Matz Sels",
+            "Wout Faes",
+            "Leandro Trossard",
+            "Lois Openda",
+            "Timothy Castagne",
+            "Jan Verthongen",
+            "Yannick Carrasco",
+            "Youir Tielemmans",
+            "Dodi Lukebakio",
+            "Johan Bakayoko",
+            "Romelu Lukaku"
+          ]
+        },
+        {
+          "name": "Croatia Squad",
+          "logoSrc": "images/croatia.jpg",
+          "players": [
+            "Dominik Livaković",
+            "Josip Stanišić",
+            "Mario Pašalić",
+            "Joško Gvardiol",
+            "Borna Sosa",
+            "Marcelo Brozović",
+            "Domagoj Vida",
+            "Luka Modrić",
+            "Ivan Rakitić",
+            "Ante Rebić",
+            "Mario Mandžukić"
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "contact": {
+        "email": "help@UEFA.com",
+        "emailInfo": "info@UEFA.com"
+      },
+      "products": [
+        "Store",
+        "Tickets",
+        "Fan Shop"
+      ],
+      "contacts": [
+        {
+          "name": "FIFA",
+          "href": "https://www.fifa.com/"
+        },
+        {
+          "name": "UEFA",
+          "href": "https://www.uefa.com/"
+        },
+        {
+          "name": "Nyon",
+          "href": "https://hr.wikipedia.org/wiki/Nyon"
+        }
+      ],
+      "support": [
+        "Tech Support",
+        "Get In Touch"
+      ],
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/uefa",
+        "twitter": "https://twitter.com/UEFA",
+        "linkedin": "https://www.linkedin.com/company/uefa",
+        "instagram": "https://www.instagram.com/uefa_official/",
+        "youtube": "https://www.youtube.com/user/UEFA"
+      }
+    },
+    "afterFooter": {
+      "about": {
+        "description": "This is the official website of UEFA.",
+        "links": [
+          {
+            "text": "Home",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Contact Us",
+            "href": "mailto:info@UEFA.com"
+          },
+          {
+            "text": "Club Competitions Store",
+            "href": "#"
+          }
+        ]
+      }
+    }
+}
+  
