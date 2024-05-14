@@ -80,55 +80,124 @@ header{
     color: white;
 }
 
-.main-cta-btn{
-    background-color: #4f33f1;
-    border: 1px solid #4f33f1;
-    padding: 10px;
-    color: #fff !important;
-    transition: 0.2s;
+
+.title h1{
+    border-bottom: 1px dotted lightblue;
+    color: darkblue;
+    text-align: center;
+    padding: -100px;
+    margin: 100px;
 }
 
-.main-cta-btn:hover{
-    color: white !important;
-    background-color: transparent;
-    text-decoration: none;
+.title h4{
+    border-bottom: 1px dotted blue;
+    color: darkblue;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
 }
 
-.lastes-news{
-    background-image: url("../images/kros.jpg");
-    background-color: darkblue;
+
+.matches-schedule{
+    display: inline-block;
+    /*background-color: darkblue;*/
     background-size: cover;
     background-position: center;
-    padding: 70px;
-    margin: 71px;
+    /*padding: 100px;
+    margin: 100px;*/
+    padding-top: 200px;
+    padding-bottom: 100px;
 }
 
-.lastes-news h1{
-    color:black ;
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 300px;
-    text-align: left;
 
-}
-
-.lastes-news p{
-    color: #fff;
+.matches-schedule p{
+    color: yellow;
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 20px;
     margin-top: -100px;
 }
 
-.lastes-news a {
-    background-color: lightblue;
-    border: 1px solid black;
-    padding: 10px;
-    color: #fff;
-    transition: 0.2s;
-    display: inline-block;
+
+.matches-schedule .first-table{
+    border-collapse: collapse;
+    width: auto;
 }
+
+.matches-schedule tr td{
+    border: none;
+}
+
+.matches-schedule td{
+    text-align: left;
+    
+}
+
+.matches-schedule  td .details{
+    font-size: smaller;
+    text-align: right;
+    top: 200px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 footer{
     padding-top: 50px;

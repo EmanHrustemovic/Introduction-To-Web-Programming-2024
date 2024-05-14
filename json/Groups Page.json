@@ -1,0 +1,214 @@
+{
+    "header": {
+      "miniPreHeader": {
+        "links": [
+          {
+            "text": "UEFA.com",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      },
+      "bigPreHeader": {
+        "logoSrc": "images/logo.jpg",
+        "menuItems": [
+          {
+            "text": "Matches",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Matches%20Page.html"
+          },
+          {
+            "text": "Groups",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Groups%20Page.html"
+          },
+          {
+            "text": "Video",
+            "href": "https://www.youtube.com/user/UEFA"
+          },
+          {
+            "text": "Teams",
+            "href": "Teams Page.html"
+          },
+          {
+            "text": "News",
+            "href": "News Page.html"
+          },
+          {
+            "text": "Tickets",
+            "href": "https://www.uefa.com/tickets/"
+          },
+          {
+            "text": "Event Guide",
+            "href": "Event Guide.html"
+          },
+          {
+            "text": "History",
+            "href": "https://en.wikipedia.org/wiki/UEFA"
+          },
+          {
+            "text": "About",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Store",
+            "href": "https://www.shopuefa.com/en/"
+          }
+        ]
+      }
+    },
+    "groups": [
+      {
+        "name": "Group A",
+        "teams": [
+          { "name": "Germany", "flag": "images/germany.png" },
+          { "name": "Scotland", "flag": "images/scotland.jpg" },
+          { "name": "Hungary", "flag": "images/hungary.jpg" },
+          { "name": "Switzerland", "flag": "images/švica.png" }
+        ]
+      },
+      {
+        "name": "Group B",
+        "teams": [
+          { "name": "Spain", "flag": "images/spain.jpg" },
+          { "name": "Croatia", "flag": "images/croatia.jpg" },
+          { "name": "Italy", "flag": "images/italy.jpg" },
+          { "name": "Albania", "flag": "images/albania.jpg" }
+        ]
+      },
+      {
+        "name": "Group C",
+        "teams": [
+          { "name": "Slovenia", "flag": "images/slovenia.jpg" },
+          { "name": "Denmark", "flag": "images/denmark.jpg" },
+          { "name": "Serbia", "flag": "images/serbia.png" },
+          { "name": "England", "flag": "images/england.png" }
+        ]
+      },
+      {
+        "name": "Group D",
+        "teams": [
+          { "name": "Bosnia", "flag": "images/bosna.jpg" },
+          { "name": "Austria", "flag": "images/austria.jpg" },
+          { "name": "France", "flag": "images/france.jpg" },
+          { "name": "Netherlands", "flag": "images/nethe.png" }
+        ]
+      },
+      {
+        "name": "Group E",
+        "teams": [
+          { "name": "Belgium", "flag": "images/belgium.png" },
+          { "name": "Slovakia", "flag": "images/slovakia.png" },
+          { "name": "Romania", "flag": "images/romania.png" },
+          { "name": "Greece", "flag": "images/grecee.jpg" }
+        ]
+      },
+      {
+        "name": "Group F",
+        "teams": [
+          { "name": "Turkey", "flag": "images/turkey.png" },
+          { "name": "Czechia", "flag": "images/czech.png" },
+          { "name": "Portugal", "flag": "images/portugal.png" },
+          { "name": "Wels", "flag": "images/welsh.png" }
+        ]
+      }
+    ],
+    "footer": {
+      "contact": {
+        "links": [
+          {
+            "text": "help@UEFA.com",
+            "href": "mailto:UEFA.com"
+          },
+          {
+            "text": "info@UEFA.com",
+            "href": "mailto:info@UEFA.com"
+          }
+        ]
+      },
+      "products": [
+        {
+          "text": "Store",
+          "href": "#"
+        },
+        {
+          "text": "Tickets",
+          "href": "#"
+        },
+        {
+          "text": "Fan Shop",
+          "href": "#"
+        }
+      ],
+      "contacts": {
+        "links": [
+          {
+            "text": "FIFA",
+            "href": "https://www.fifa.com/"
+          },
+          {
+            "text": "UEFA",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Nyon",
+            "href": "https://hr.wikipedia.org/wiki/Nyon"
+          }
+        ]
+      },
+      "support": {
+        "links": [
+          {
+            "text": "Tech Support",
+            "href": "#"
+          },
+          {
+            "text": "Get In Touch",
+            "href": "#"
+          }
+        ]
+      },
+      "socialMedia": {
+        "links": [
+          {
+            "icon": "fab fa-facebook-square",
+            "href": "https://www.facebook.com/uefa"
+          },
+          {
+            "icon": "fab fa-twitter",
+            "href": "https://twitter.com/UEFA"
+          },
+          {
+            "icon": "fab fa-linkedin",
+            "href": "https://www.linkedin.com/company/uefa"
+          },
+          {
+            "icon": "fab fa-instagram-square",
+            "href": "https://www.instagram.com/uefa_official/"
+          },
+          {
+            "icon": "fab fa-youtube",
+            "href": "https://www.youtube.com/user/UEFA"
+          }
+        ]
+      },
+      "copyright": {
+        "text": "This is the official website of UEFA."
+      },
+      "quickLinks": {
+        "links": [
+          {
+            "text": "Home",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Contact Us",
+            "href": "mailto:info@UEFA.com"
+          },
+          {
+            "text": "Club Competitions Store",
+            "href": "#"
+          }
+        ]
+      }
+    }
+  }
+  
+  

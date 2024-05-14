@@ -1,0 +1,175 @@
+{
+    "header": {
+      "miniPreHeader": {
+        "links": [
+          {
+            "text": "UEFA.com",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      },
+      "bigPreHeader": {
+        "logoSrc": "images/logo.jpg",
+        "menuItems": [
+          {
+            "text": "Inside UEFA",
+            "href": "https://www.uefa.com/insideuefa/"
+          },
+          {
+            "text": "UEFA.tv",
+            "href": "https://www.uefa.tv/"
+          },
+          {
+            "text": "Live Scores",
+            "href": "https://www.uefa.com/livescores/"
+          },
+          {
+            "text": "Tickets",
+            "href": "https://www.uefa.com/tickets/"
+          },
+          {
+            "text": "Store",
+            "href": "https://www.shopuefa.com/en/"
+          },
+          {
+            "text": "Login",
+            "href": "file:///C:/xampp/htdocs/Introduction-To-Web-Programming-2024/Login%20Page.html"
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.uefa.com/"
+          }
+        ]
+      }
+    },
+    "description": {
+      "title": "Host cities",
+      "link": "Event Guide.html"
+    },
+    "cities": [
+      {
+        "name": "Berlin",
+        "link": "https://en.wikipedia.org/wiki/Berlin"
+      },
+      {
+        "name": "Leipzig",
+        "link": "https://en.wikipedia.org/wiki/Leipzig"
+      },
+      {
+        "name": "Dortmund",
+        "link": "https://en.wikipedia.org/wiki/Dortmund"
+      },
+      {
+        "name": "Cologne",
+        "link": "https://en.wikipedia.org/wiki/Cologne"
+      },
+      {
+        "name": "Munich",
+        "link": "https://en.wikipedia.org/wiki/Munich"
+      },
+      {
+        "name": "Frankfurt",
+        "link": "https://en.wikipedia.org/wiki/Frankfurt"
+      }
+    ],
+    "footer": {
+      "contact": {
+        "links": [
+          {
+            "text": "help@UEFA.com",
+            "href": "mailto:UEFA.com"
+          },
+          {
+            "text": "info@UEFA.com",
+            "href": "mailto:info@UEFA.com"
+          }
+        ]
+      },
+      "products": [
+        {
+          "text": "Store",
+          "href": "#"
+        },
+        {
+          "text": "Tickets",
+          "href": "#"
+        },
+        {
+          "text": "Fan Shop",
+          "href": "#"
+        }
+      ],
+      "contacts": {
+        "links": [
+          {
+            "text": "FIFA",
+            "href": "https://www.fifa.com/"
+          },
+          {
+            "text": "UEFA",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Nyon",
+            "href": "https://hr.wikipedia.org/wiki/Nyon"
+          }
+        ]
+      },
+      "support": {
+        "links": [
+          {
+            "text": "Tech Support",
+            "href": "#"
+          },
+          {
+            "text": "Get In Touch",
+            "href": "#"
+          }
+        ]
+      },
+      "socialMedia": {
+        "links": [
+          {
+            "icon": "fab fa-facebook-square",
+            "href": "https://www.facebook.com/uefa"
+          },
+          {
+            "icon": "fab fa-twitter",
+            "href": "https://twitter.com/UEFA"
+          },
+          {
+            "icon": "fab fa-linkedin",
+            "href": "https://www.linkedin.com/company/uefa"
+          },
+          {
+            "icon": "fab fa-instagram-square",
+            "href": "https://www.instagram.com/uefa_official/"
+          },
+          {
+            "icon": "fab fa-youtube",
+            "href": "https://www.youtube.com/user/UEFA"
+          }
+        ]
+      },
+      "copyright": {
+        "text": "This is the official website of UEFA."
+      },
+      "quickLinks": {
+        "links": [
+          {
+            "text": "Home",
+            "href": "https://www.uefa.com/"
+          },
+          {
+            "text": "Contact Us",
+            "href": "mailto:info@UEFA.com"
+          },
+          {
+            "text": "Club Competitions Store",
+            "href": "#"
+          }
+        ]
+      }
+    }
+  }
+  
