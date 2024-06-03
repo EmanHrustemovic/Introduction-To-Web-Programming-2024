@@ -1,4 +1,7 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
 
 body {
     font-family: Arial, sans-serif;
@@ -35,7 +38,5 @@ body {
 .create-account {
     margin-top: 20px;
 }
-
-
 
 

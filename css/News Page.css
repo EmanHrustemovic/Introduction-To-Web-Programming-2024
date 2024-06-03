@@ -80,13 +80,6 @@ header{
     color: white;
 }
 
-.main-cta-btn{
-    background-color: #4f33f1;
-    border: 1px solid #4f33f1;
-    padding: 10px;
-    color: #fff !important;
-    transition: 0.2s;
-}
 
 .main-cta-btn:hover{
     color: white !important;
@@ -94,16 +87,64 @@ header{
     text-decoration: none;
 }
 
-.lastes-news{
-    background-image: url("../images/kros.jpg");
-    background-color: darkblue;
+
+.news-section{
     background-size: cover;
     background-position: center;
     padding: 70px;
     margin: 71px;
 }
 
-.lastes-news h1{
+.news-section .first-news{
+    background-image: url("../images/italija.jpg");
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.news-section .first-news h1{
+    color: red;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+
+.news-section .second-news{
+    margin:20px;
+    background-image: url("../images/german.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+}
+
+.news-section .second-news p{
+    color: red;
+}
+
+.news-section .second-news h1{
+    color: red;
+    padding-top: 10px;
+}
+
+.news-section .third-news{
+    margin: 20px;
+    background-image: url("../images/dzeko.jpg");
+    background-size: cover;
+    background-position: center 50px;
+    padding-top: 20px;
+}
+
+
+.news-section .third-news h1{
+    color: red;
+    padding-top: 30px;
+}
+
+
+.news-section .third-news p{
+    color: red;
+}
+
+.news-section h1{
     color:black ;
     text-transform: uppercase;
     text-align: center;
@@ -113,7 +154,7 @@ header{
 
 }
 
-.lastes-news p{
+.news-section p{
     color: #fff;
     font-size: 18px;
     font-weight: bold;
@@ -121,7 +162,7 @@ header{
     margin-top: -100px;
 }
 
-.lastes-news a {
+.news-section a {
     background-color: lightblue;
     border: 1px solid black;
     padding: 10px;
@@ -129,6 +170,9 @@ header{
     transition: 0.2s;
     display: inline-block;
 }
+
+
+
 
 footer{
     padding-top: 50px;

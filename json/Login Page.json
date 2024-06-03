@@ -1,0 +1,41 @@
+{
+    "loginForm": {
+      "title": "Login into your account",
+      "fields": [
+        {
+          "name": "username",
+          "type": "text",
+          "placeholder": "Username",
+          "required": true
+        },
+        {
+          "name": "password",
+          "type": "password",
+          "placeholder": "Password",
+          "required": true
+        }
+      ],
+      "links": [
+        {
+          "text": "Forgot password?",
+          "href": "#",
+          "class": "forget-password"
+        }
+      ],
+      "buttons": [
+        {
+          "type": "submit",
+          "text": "Login"
+        }
+      ],
+      "createAccount": {
+        "text": "Don't have an account?",
+        "link": {
+          "text": "Create new account",
+          "href": "#",
+          "class": "create-account-link"
+        }
+      }
+    }
+}
+  
